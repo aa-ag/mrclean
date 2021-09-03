@@ -9,3 +9,4 @@ Following along Kaggle's [Data Cleaning](https://www.kaggle.com/learn/data-clean
 - `conda create -n mrclean`
 - `conda install -c anaconda python`
 - `conda install -c anaconda pandas`
+- `brew install jupyter`
